@@ -20,3 +20,4 @@ The java scripts use jQuery: " **npm install jquery**"
 
 2. **How the application must run**
 to run this application be sure that you have installed the packages above and " **config.json"** file includes API link : " **apiUrl":** [**http://jss.restapi.co.za/memes**](http://jss.restapi.co.za/memes). The application uses node express, in order to run open terminal in Visual Studio Code application or command line and type "npm start". If you have properly installed the packages you would see the main page.
+
