@@ -16,7 +16,8 @@ The java scripts use jQuery: " **npm install jquery**"
  and finally standard express packages
  npm install fs, path, request.
 **"package.json file"** should be seen:
- ![](RackMultipart20240127-1-939ndm_html_cda43eb311ebf36e.png)
+![packages](https://github.com/devrimsavas/basicSocket/assets/137702797/9df74743-e8c4-468b-ac6b-2615f5f1ac71)
+
 
 2. **How the application must run**
 to run this application be sure that you have installed the packages above and " **config.json"** file includes API link : " **apiUrl":** [**http://jss.restapi.co.za/memes**](http://jss.restapi.co.za/memes). The application uses node express, in order to run open terminal in Visual Studio Code application or command line and type "npm start". If you have properly installed the packages you would see the main page.
